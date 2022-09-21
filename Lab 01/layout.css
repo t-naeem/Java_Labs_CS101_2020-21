@@ -1,0 +1,28 @@
+body {
+  font-family: system-ui;
+  background-color: LightSteelBlue;
+}
+
+.colourh1{
+  width : 200px;
+}
+
+#title {
+  font-family: Courier New;
+  text-align: center;
+  border-top-style: ridge;
+  border-bottom-style: ridge;
+  border-color: RoyalBlue;
+  background-color: GhostWhite;
+}
+
+.fontdiv {
+  font-family: Century Gothic;
+  
+   
+}
+
+canvas{
+  border : 1px solid #c3c3c3;
+  width : 200px;
+}
